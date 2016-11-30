@@ -82,6 +82,7 @@ $(function(){
 			lis[this.index].style.border="1px solid #A2A2A2";
 			lis[this.index].style.width="18px";
 			lis[this.index].style.height="18px;"
+			index=this.index;
 		}
 	}
 	//万件好礼免费送
